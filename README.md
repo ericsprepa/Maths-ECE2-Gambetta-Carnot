@@ -1,1 +1,1 @@
-# Maths-ECE2-Gambetta-Carnot
+# Maths-MP2I-Guy Mollet
